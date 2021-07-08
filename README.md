@@ -7,7 +7,7 @@ So I'm going to try the following:
 - [ ] Make a Github repo for this.
 - [ ] Do research to see what solutions currently exist.
 - [ ] Install WeChat as fast as possible (probably WINE) on an Ubuntu VM 
-- [ ] Install WeChat as fast as possible (probably WINE on a *Fedora* VM
+- [ ] Install WeChat as fast as possible (probably WINE) on a *Fedora* VM
 - [ ] Figure out how to package WINE into a Flatpak
 - [ ] Install WeChat on WINE on a Flatpak
 - [ ] Submit it to Flathub
