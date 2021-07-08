@@ -21,4 +21,4 @@ So I'm going to try the following:
 - [Winepak](https://www.winepak.org/): "Making Microsoft Windows applications Just Work™ under Linux"
   - NOTE: The winepak repository of applications doesn't look actively maintained or updated.
 - [Fedora Classroom: Containers 101 with Podman](https://fedoramagazine.org/fedora-classroom-containers-101-podman/)
-- [(Youtube video)Containers 101 with Podman on Fedora 29](https://www.youtube.com/watch?v=lc2rR_0Ie5g)
+- [(Youtube video) Containers 101 with Podman on Fedora 29](https://www.youtube.com/watch?v=lc2rR_0Ie5g)
