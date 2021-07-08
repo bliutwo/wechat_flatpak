@@ -4,7 +4,7 @@ So I want to figure out how to install WeChat on Linux because one giant pain in
 
 So I'm going to try the following:
 
-- [ ] Make a Github repo for this.
+- [x] Make a Github repo for this.
 - [ ] Do research to see what solutions currently exist.
 - [ ] Install WeChat as fast as possible (probably WINE) on an Ubuntu VM 
 - [ ] Install WeChat as fast as possible (probably WINE) on a *Fedora* VM
