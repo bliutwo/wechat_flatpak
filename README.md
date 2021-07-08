@@ -22,3 +22,4 @@ So I'm going to try the following:
   - NOTE: The winepak repository of applications doesn't look actively maintained or updated.
 - [Fedora Classroom: Containers 101 with Podman](https://fedoramagazine.org/fedora-classroom-containers-101-podman/)
 - [(Youtube video) Containers 101 with Podman on Fedora 29](https://www.youtube.com/watch?v=lc2rR_0Ie5g)
+- [Flatpak docs: Introduction to Flatpak](https://docs.flatpak.org/en/latest/introduction.html)
